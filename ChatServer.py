@@ -2,7 +2,7 @@ from socket import *
 import threading
 from time import ctime
 
-HOST = '192.168.43.115'
+HOST = ''#insert ip-address of your server
 PORT = 22334
 BUFSIZ = 1024
 ADDR = (HOST, PORT)
